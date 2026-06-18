@@ -1,0 +1,17 @@
+INSTRUCCIONES PARA ABRIR EL CATALOGO
+
+1. Mantener juntos estos elementos:
+   - index.html
+   - carpeta imagenes
+
+2. Abrir index.html con Chrome, Edge o Firefox.
+
+3. No mover index.html fuera de esta carpeta.
+   Si se mueve, las imagenes pueden dejar de verse.
+
+4. Para enviar el catalogo por correo o WhatsApp:
+   - comprimir la carpeta salida completa como ZIP
+   - enviar el ZIP
+   - quien lo recibe debe descomprimirlo y abrir index.html
+
+El catalogo muestra precios cuando estan cargados y no genera pedidos.
